@@ -90,7 +90,7 @@ Observamos que la distribución de las víctimas por comuna es bastante heterog�
 
 ** Distribucíon de víctimas según género y tipo de vehículo:**
 
-![Distribucíon de víctimas según género y tipo de vehículo](Images/vehiculo..jpg)
+![Distribucíon de víctimas según género y tipo de vehículo](Images/vehiculo.jpg)
 
 
 Observamos que para ambos sexos, la mayoría de victimas viajaban en moto o eran peatones. La cantidad de victimas hombres es notoriamente mayor al de las mujeres.
