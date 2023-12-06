@@ -55,7 +55,7 @@ Durante la fase de transformación y limpieza de datos (ETL), se han aplicado un
 Utilizando los datos resultantes del proceso ETL, se llevó a cabo un análisis exploratorio de datos (EDA) que desveló fascinantes perspectivas y patrones subyacentes. Para potenciar este análisis, se empleó la herramienta ProfileReport de la librería ydata_profiling, que permitió una inspección exhaustiva de todas las columnas. Este proceso enriquecedor no solo iluminó las características fundamentales de los datos, sino que también ofreció una visión detallada de cómo abordar cuestiones como valores faltantes, valores atípicos y mucho más.
 
 ** Verificación de Outliers:**
-![Revisión de datos atípicos](https://github.com/Karls91/PI-Siniestros-Viales/tree/main/Images/Boxplot.png)
+![Revisión de datos atípicos](Images/Boxplot.png)
 
 
 Los outliers con respecto al número de victimas es debido a que en la mayoría de los siniestros, la cantidad de victimas es de valor uno y en ésos casos puntuales, la cantidad e victimas fueron de 2 y 3. 
