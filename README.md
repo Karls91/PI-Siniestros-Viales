@@ -16,9 +16,6 @@ En la Ciudad de Buenos Aires como sucede en las grandes urbes, la seguridad vial
 
 En este contexto, surge nuestro proyecto individual, una iniciativa que busca emplear el potencial de los datos y el análisis para enfrentar el desafío de los siniestros viales en la Ciudad de Buenos Aires. En colaboración con el Observatorio de Movilidad y Seguridad Vial (OMSV), nos hemos propuesto analizar a fondo los incidentes de tráfico ocurridos en los últimos años. Nuestro objetivo es claro: generar información valiosa que capacite a las autoridades locales para tomar medidas efectivas y reducir la cantidad de víctimas fatales en estos incidentes.
 
-Este proyecto no solo es una oportunidad para aplicar nuestras habilidades de análisis de datos, sino también un compromiso con la seguridad y el bienestar de la comunidad. A través de este informe, te invitamos a explorar nuestro enfoque y descubrir cómo los datos pueden desempeñar un papel fundamental en la construcción de una ciudad más segura en las carreteras de Buenos Aires.
----
-
 
 ## Objetivo
 
@@ -58,14 +55,14 @@ Durante la fase de transformación y limpieza de datos (ETL), se han aplicado un
 Utilizando los datos resultantes del proceso ETL, se llevó a cabo un análisis exploratorio de datos (EDA) que desveló fascinantes perspectivas y patrones subyacentes. Para potenciar este análisis, se empleó la herramienta ProfileReport de la librería ydata_profiling, que permitió una inspección exhaustiva de todas las columnas. Este proceso enriquecedor no solo iluminó las características fundamentales de los datos, sino que también ofreció una visión detallada de cómo abordar cuestiones como valores faltantes, valores atípicos y mucho más.
 
 ** Verificación de Outliers:**
-![Revisión de datos atípicos](https://github.com/Karls91/PI-Siniestros-Viales/main/images/Boxplot.png)
+![Revisión de datos atípicos](https://github.com/Karls91/PI-Siniestros-Viales/edit/main/imagesBoxplot.png)
 
 
 Los outliers con respecto al número de victimas es debido a que en la mayoría de los siniestros, la cantidad de victimas es de valor uno y en ésos casos puntuales, la cantidad e victimas fueron de 2 y 3. 
 
 ** Relación entre Año y el Número de Víctimas :**
 
-![Relación del número de victimas con respecto al tiempo](https://github.com/Karls91/PI-Siniestros-Viales/main/images/año.png)
+![Relación del número de victimas con respecto al tiempo]([https://github.com/Karls91/PI-Siniestros-Viales/main/](https://github.com/Karls91/PI-Siniestros-Viales/edit/main/images/año.png)
 
 Se observa que durante los años 2017 y 2018 se produjeron la mayor cantidad de victimas fatales. Asi mismo, después del 2018 hubo una pronunciada disminución de los siniestros llegando al punto más bajo en el año 2020, que seguramente fue debido al confinamiento que pordujo la pandemia del Covid19.
 
@@ -73,13 +70,13 @@ Se observa que durante los años 2017 y 2018 se produjeron la mayor cantidad de 
 
 ** Relación entre la Edad de las víctimas y la cantidad de siniestros viales:**
 
-![Víctimas por Siniestros viales](https://github.com/Karls91/PI-Siniestros-Viales/main/images/Histo_edad.png)
+![Víctimas por Siniestros viales](https://github.com/Karls91/PI-Siniestros-Viales/edit/main/images/Histo_edad.png)
 
 Observamos que el 75% de las víctimas fatales es menor que 57 años. La mediana se sitúa en los 42 años. También podemos concluir que la mayor cantiad de víctimas fatales se concentra entre los 20 a 40 años de edad.
 
 **Distribución etaria según el Sexo:**
 
-![Distribución etaria según el Sexo](https://github.com/Karls91/PI-Siniestros-Viales/main/images/Histo_Sexo.png)
+![Distribución etaria según el Sexo](https://github.com/Karls91/PI-Siniestros-Viales/edit/main/images/Histo_Sexo.png)
 
 Con ayuda el histograma podemos observar que las victimas de sexo femenino poseen unos picos en las edades de 30, 60 y 80 años. 
 
@@ -87,13 +84,13 @@ Con respecto a los hombres, en contraste observamos que la mayoría de las víct
 
 ** Distribución de siniestros por comunas:**
 
-![Distribución de siniestros por comunas](https://github.com/Karls91/PI-Siniestros-Viales/main/images/victim_comuna.png)
+![Distribución de siniestros por comunas](https://github.com/Karls91/PI-Siniestros-Viales/edit/main/images/victim_comuna.png)
 
 Observamos que la distribución de las víctimas por comuna es bastante heterogénea. Sería necesario verificar más al detalle las comunas 1, 4, 7, 8 y 9 las cuales presentan los mayores registros de siniestros. Valdría la pena verificar si existe alguna zona de alta densidad vehicular que pueda influir en la accidentalidad.
 
 ** Distribucíon de víctimas según género y tipo de vehículo:**
 
-![Distribucíon de víctimas según género y tipo de vehículo](https://github.com/Karls91/PI-Siniestros-Viales/main/images/vehiculo.png)
+![Distribucíon de víctimas según género y tipo de vehículo](https://github.com/Karls91/PI-Siniestros-Viales/edit/main/images/vehiculo.png)
 
 
 Observamos que para ambos sexos, la mayoría de victimas viajaban en moto o eran peatones. La cantidad de victimas hombres es notoriamente mayor al de las mujeres.
