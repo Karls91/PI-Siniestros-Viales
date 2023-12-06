@@ -62,7 +62,7 @@ Los outliers con respecto al número de victimas es debido a que en la mayoría 
 
 ** Relación entre Año y el Número de Víctimas :**
 
-![Relación del número de victimas con respecto al tiempo]([https://github.com/Karls91/PI-Siniestros-Viales/main/](https://github.com/Karls91/PI-Siniestros-Viales/tree/main/Images/año.png)
+![Relación del número de victimas con respecto al tiempo]([https://github.com/Karls91/PI-Siniestros-Viales/main/](Images/año.png)
 
 Se observa que durante los años 2017 y 2018 se produjeron la mayor cantidad de victimas fatales. Asi mismo, después del 2018 hubo una pronunciada disminución de los siniestros llegando al punto más bajo en el año 2020, que seguramente fue debido al confinamiento que pordujo la pandemia del Covid19.
 
@@ -70,13 +70,13 @@ Se observa que durante los años 2017 y 2018 se produjeron la mayor cantidad de 
 
 ** Relación entre la Edad de las víctimas y la cantidad de siniestros viales:**
 
-![Víctimas por Siniestros viales](https://github.com/Karls91/PI-Siniestros-Viales/tree/main/Images/Histo_edad.png)
+![Víctimas por Siniestros viales](Images/Histo_edad.png)
 
 Observamos que el 75% de las víctimas fatales es menor que 57 años. La mediana se sitúa en los 42 años. También podemos concluir que la mayor cantiad de víctimas fatales se concentra entre los 20 a 40 años de edad.
 
 **Distribución etaria según el Sexo:**
 
-![Distribución etaria según el Sexo](https://github.com/Karls91/PI-Siniestros-Viales/tree/main/Images/Histo_Sexo.png)
+![Distribución etaria según el Sexo](Images/Histo_Sexo.png)
 
 Con ayuda el histograma podemos observar que las victimas de sexo femenino poseen unos picos en las edades de 30, 60 y 80 años. 
 
@@ -84,13 +84,13 @@ Con respecto a los hombres, en contraste observamos que la mayoría de las víct
 
 ** Distribución de siniestros por comunas:**
 
-![Distribución de siniestros por comunas](https://github.com/Karls91/PI-Siniestros-Viales/tree/main/Images/victim_comuna.png)
+![Distribución de siniestros por comunas](Images/victim_comuna.png)
 
 Observamos que la distribución de las víctimas por comuna es bastante heterogénea. Sería necesario verificar más al detalle las comunas 1, 4, 7, 8 y 9 las cuales presentan los mayores registros de siniestros. Valdría la pena verificar si existe alguna zona de alta densidad vehicular que pueda influir en la accidentalidad.
 
 ** Distribucíon de víctimas según género y tipo de vehículo:**
 
-![Distribucíon de víctimas según género y tipo de vehículo](https://github.com/Karls91/PI-Siniestros-Viales/tree/main/Images/vehiculo.png)
+![Distribucíon de víctimas según género y tipo de vehículo](Images/vehiculo.png)
 
 
 Observamos que para ambos sexos, la mayoría de victimas viajaban en moto o eran peatones. La cantidad de victimas hombres es notoriamente mayor al de las mujeres.
