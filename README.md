@@ -115,3 +115,16 @@ Observamos que para ambos sexos, la mayoría de victimas viajaban en moto o eran
 
 ![Grafica reduccion tasa homicidios KPI1](reduccion_tasa_homicidios_KPI1.jpg)
 
+KPI 2: Reducción del 7% en la cantidad de accidentes mortales de motociclistas en CABA en el último año en comparación con el año anterior
+
+Este KPI se centra en evaluar la evolución de la cantidad de accidentes mortales de motociclistas en la Ciudad Autónoma de Buenos Aires (CABA) en un período de varios años, comparando los dos últimos años. Análisis más detallado:
+
+Tendencia general: En este KPI, también se observa una variación año tras año, con fluctuaciones tanto positivas como negativas.
+
+Año 2020: Destaca un aumento significativo del 64.29% en la cantidad de accidentes mortales de motociclistas, lo que podría requerir una atención inmediata para comprender las razones detrás de este aumento.
+
+Año 2021: Al igual que en el KPI 1, faltan datos para el año 2021 en este KPI, lo que dificulta una evaluación precisa.
+
+Comparación anual: La reducción del 7% en la cantidad de accidentes mortales de motociclistas es el objetivo, pero no siempre se logra. Por ejemplo, en el año 2019, se observa una disminución significativa del 44%.
+
+Análisis de causas: Para entender las fluctuaciones en este KPI, sería importante analizar factores como las medidas de seguridad específicas para motociclistas, el aumento en la cantidad de motociclistas en la ciudad y la aplicación de políticas de tráfico.
