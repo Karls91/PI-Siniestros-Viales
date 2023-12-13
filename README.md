@@ -52,7 +52,7 @@ Durante la fase de transformación y limpieza de datos (ETL), se han aplicado un
 
 ## EDA
 
-Utilizando los datos resultantes del proceso ETL, se llevó a cabo un análisis exploratorio de datos (EDA) que desveló fascinantes perspectivas y patrones subyacentes. Para potenciar este análisis, se empleó la herramienta ProfileReport de la librería ydata_profiling, que permitió una inspección exhaustiva de todas las columnas. Este proceso enriquecedor no solo iluminó las características fundamentales de los datos, sino que también ofreció una visión detallada de cómo abordar cuestiones como valores faltantes, valores atípicos y mucho más.
+Utilizando los datos resultantes del proceso ETL, se llevó a cabo un análisis exploratorio de datos (EDA) que desveló fascinantes perspectivas y patrones subyacentes. Para potenciar este análisis, se empleó la herramienta ProfileReport de la librería ydata_profiling, que permitió una inspección exhaustiva de todas las columnas. Este proceso enriquecedor no solo iluminó las características fundamentales de los datos, sino que también ofreció una visión detallada de cómo abordar cuestiones como valores faltantes, valores atípicos, etc.
 
 ** Verificación de Outliers:**
 ![Revisión de datos atípicos](Images/Boxplot.png)
@@ -62,7 +62,7 @@ Los outliers con respecto al número de victimas es debido a que en la mayoría 
 
 ** Relación entre Año y el Número de Víctimas :**
 
-![Relación del número de victimas con respecto al tiempo]([https://github.com/Karls91/PI-Siniestros-Viales/main/](Images/año.png)
+![Relación del número de victimas con respecto al tiempo](Images/año.png)
 
 Se observa que durante los años 2017 y 2018 se produjeron la mayor cantidad de victimas fatales. Asi mismo, después del 2018 hubo una pronunciada disminución de los siniestros llegando al punto más bajo en el año 2020, que seguramente fue debido al confinamiento que pordujo la pandemia del Covid19.
 
