@@ -113,7 +113,7 @@ Análisis de causas: Sería útil profundizar en las razones detrás de las vari
 
 Observamos que para ambos sexos, la mayoría de victimas viajaban en moto o eran peatones. La cantidad de victimas hombres es notoriamente mayor al de las mujeres.
 
-![Grafica reduccion tasa homicidios KPI1](reduccion_tasa_homicidios_KPI1.jpg)
+![Grafica reduccion tasa homicidios KPI1](reduccion_tasa_homicidios_KPI1.png)
 
 KPI 2: Reducción del 7% en la cantidad de accidentes mortales de motociclistas en CABA en el último año en comparación con el año anterior
 
